@@ -43,3 +43,27 @@ Before running this project, make sure you have the following installed:
 Node.js
 MongoDB (v8.0.4 or higher)
 npm (Node Package Manager)
+
+
+
+Install frontend dependencies:
+npm install
+Install backend dependencies:
+cd backend
+npm install
+Running the Application
+Start MongoDB service on your machine
+
+Start the backend server:
+
+cd backend
+node server.js
+The server will run on http://localhost:5000
+
+In a new terminal, start the frontend development server:
+cd ..  # Go back to root directory
+npm start
+The frontend will be available at http://localhost:3000
+
+API Documentation
+The API endpoints are available at http://localhost:5000/api:
