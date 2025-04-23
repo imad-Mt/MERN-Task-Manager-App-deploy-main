@@ -24,3 +24,22 @@ Liste des tâches : Affichage dynamique de toutes les tâches
 Édition : Modifier une tâche existante
 
 Suppression : Supprimer une tâche
+
+
+Frontend
+React.js 18.2.0
+React Router DOM 6.30.0
+Axios for API calls
+Bootstrap 5.3.5 for styling
+Backend
+Node.js
+Express.js
+MongoDB
+Mongoose
+CORS enabled
+Prerequisites
+Before running this project, make sure you have the following installed:
+
+Node.js
+MongoDB (v8.0.4 or higher)
+npm (Node Package Manager)
